@@ -25,3 +25,4 @@ const prodConfig = {
 }
 
 module.exports =  merge(commonconfig, prodConfig);
+
